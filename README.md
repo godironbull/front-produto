@@ -1,4 +1,4 @@
-```markdown
+
 # Nome do Projeto
 
 Este é um aplicativo desenvolvido com o [Flutter](https://flutter.dev/), um framework da Google para construir aplicações nativas para Android, iOS, Web e Desktop com uma única base de código.
